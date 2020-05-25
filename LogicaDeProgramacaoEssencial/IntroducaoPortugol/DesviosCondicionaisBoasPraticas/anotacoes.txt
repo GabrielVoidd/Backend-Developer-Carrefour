@@ -1,0 +1,6 @@
+Se (utilização): é utilizada a palavra reservada *se*, a condição a ser testada entre parenteses e as instruções
+que devem ser executadas entre chaves caso o desvio seja *verdadeiro*.
+
+Caso: este comando é similar aos comandos *se* e *senao*, e reduz a complexidade na escolha de diversas opções.
+Apesar de suas similaridades com o *se*, ele possui algums diferenças. Neste comando não é possível o uso de opera-
+dores lógicos, ele apenas trabalha com valores definidos.

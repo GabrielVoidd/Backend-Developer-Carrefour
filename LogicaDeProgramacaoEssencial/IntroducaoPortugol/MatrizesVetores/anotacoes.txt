@@ -1,0 +1,4 @@
+Matriz: é uma coleção de variáveis de mesmo tipo, acessíveis com um único nome e armazenados continuamente na memória.
+A individualidae de cada variável de um vetor é feita através do uso de *índices*.
+
+Vetores: são matrizes de uma só dimensão.

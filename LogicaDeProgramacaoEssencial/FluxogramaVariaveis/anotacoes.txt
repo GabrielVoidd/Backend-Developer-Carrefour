@@ -1,0 +1,8 @@
+Fluxograma: é uma ferramenta utilizada para representar gratuitamente o algoritmo, isto é, a sequência
+lógica e coerente do fluxo de dados.
+
+Variáveis: na programação, uma variável é um objeto (uma posição, frequentemente localizada na memória)
+capaz de reter e representar um valor ou expressão.
+
+Tipos de variáveis: podem ser classificadas basicamente de quatro tipos: numéricas, caracteres, alfanuméricas (pode
+receber número ou caractere) ou lógicas.

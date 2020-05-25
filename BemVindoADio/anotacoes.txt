@@ -1,0 +1,25 @@
+6 softskills super importantes:
+- Disciplina;
+- Protagonismo;
+- Atitude;
+- Colaboração;
+- Criatividade;
+- Curiosiade.
+
+-------------------------------------------------------------------------------------------------
+
+Características dos aprovados(algumas):
+- 85% tinham repositório de projetos alinhado ao currículo;
+- 85% estavam integrados colaborativamente a uma comunidade de desenvolvimento de software;
+- 90% tinham sonho grande e ambição para crescer profissionalmente;
+- 90% com grande conhecimento em metodologias ágeis, devops e eux;
+- 100% tinham evidências de aprendizagem contínua através da internet.
+
+--------------------------------------------------------------------------------------------------
+
+Características dos não aprovados(algumas):
+- Não tem projetos e portifólio para apresentar;
+- Não apresenta características de curiosidade, autodidata e protagonismo;
+- Não tem fit com a cultura e propósito da empresa;
+- Muito foco no currículo e não na jornada;
+- Dificuldade com algoritmos complexos e pensamento lógico.

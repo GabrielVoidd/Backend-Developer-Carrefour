@@ -1,0 +1,6 @@
+O que é um algoritmo: é uma sequência de passos que resolve um problema.
+
+Pseudocódigo: é uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples (nativa, ou seja, em português a quem o escreve de forma a ser entendida por qualquer pessoa).
+
+
+

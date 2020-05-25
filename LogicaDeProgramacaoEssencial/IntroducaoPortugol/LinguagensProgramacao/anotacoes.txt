@@ -1,0 +1,12 @@
+Linguagens de programação: é uma linguagem escrita e formal que especifica um conjunto de instruções e regras
+usadas para gerar programas (software). Um software pode ser desenvolvido para rodar em um computador, dispo-
+sitivo móvel ou em qualquer equipamento que permita sua execução.
+
+Baixo nível: é aquela que se aproxima mais de linguagem de máquina. Essas são as que você precisa ter o conheci-
+mento direto da arquitetura do computador para fazer alguma coisa.
+
+Alto nível: essas são aquelas cuja sintaxe se aproxima mais da nossa linguagem e se distanciam mais da linguagem
+da máquina.
+
+Portugol: é uma pseudolinguagem que permite ao leitor desenvolver algoritmos estruturados em português de forma
+simples e intuitiva, independentemente de linguagem de programação.

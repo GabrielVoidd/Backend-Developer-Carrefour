@@ -1,0 +1,16 @@
+Expressões aritméticas: são expressões que utilizam operadores artiméticos e funções 
+aritméticas envolvendo constantes e variáveis.
+
+Operadores ariméticos: soma(+), subtração(-), multiplicação(*), divisão(/), potenciação(^)
+e porcentagem(%).
+
+Expressões literais: são expressões com constantes e/ou variáveis que tem como resultado
+valores literais. Iremos utilizar as expressões literais na atribuição de valor para uma
+variável ou constante.
+
+Expressões relacionais: são expressões compostas por outras expressões ou variáveis númericas
+com operadores relacionais. As expressões relacionais retornam valores lógicos (verdadeiro /
+falso).
+
+Tomadas de decisão: quando escrevemos programas, geralmente ocorre a necessidade de decidir
+o que fazer dependendo de alguma condição encontrada durante a execução.

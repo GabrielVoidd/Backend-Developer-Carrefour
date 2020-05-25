@@ -1,0 +1,11 @@
+O que é lógica?
+Segundo o Aurélio: "Sequência coerente, regular e necessária de acontecimentos, coisas".
+
+Lógica de programação: Significa apenas contextualizar a lógica na programação de computadores, buscando a melhor sequência de ações para solucionar um problema.
+
+Metacognição: Pensar como você pensa.
+
+Abstração: É a habilidade de concentrar nos aspectos essenciais de um contexto qualquer, ignorando características menos importantes ou acidentais.
+
+
+
