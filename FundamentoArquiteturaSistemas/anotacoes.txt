@@ -1,0 +1,34 @@
+Web Services: são soluções para aplicações se comunicarem independente de
+linguagem, softwares e hardwares utilizados. Web Service é uma API, mas
+nem toda API é um Web Service.
+
+Vantagens:
+- Linguagem comum;
+- Integração;
+- Reutilização de implementação;
+- Segurança;
+- Custos.
+
+Principais tecnologias:
+- SOAP;
+- REST;
+- XML;
+- JSON.
+
+SOAP: Simple Object Acess Protocol. É um protocolo baseado em XML para acessar
+serviçoes web principalmente por HTTP. Meio de transporte genérico, ou seja,
+pode ser usado por outros protocolos além do HTTP.
+
+XML: Extensible Markup Language. É uma linguagem de marcação criada na década
+de 90 pela W3C e facilita a separação de conteúdo, já que possui tags.
+
+Estrutura SOAP: possui uma estrutura que sempre deve ser seguida sempre:
+SOAP Envelope -> SOAP Header -> SOAP Body.
+
+SOAP Envelope: é o primeiro elemento do documento e é usado para encapsular
+toda a mensagem SOAP.
+
+SOAP Header: é o elemento onde possui informações de atributos e metadados da
+requisição.
+
+SOAP Body: é o elemento que contém os detalhes da mensagem.
