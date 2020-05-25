@@ -32,3 +32,52 @@ SOAP Header: é o elemento onde possui informações de atributos e metadados da
 requisição.
 
 SOAP Body: é o elemento que contém os detalhes da mensagem.
+
+WSDL: Web Services Descriptioon Language. Usado para descrever Web Services,
+funciona como um contrato do serviço. A descrição é feita em um documento XML,
+onde é descrito o serviço, especificações de acesso, operações e métodos.
+
+XSD: XML Schema Definition. É um schema no formato XML usado para definir a
+estrutura de dados que será validada no XML. O XSD funciona como uma documenta-
+ção de como deve ser montado o SOAP Message (XML) que será enviado através de
+Web Service.
+
+Web Service público: soapclient.com/xml/soapresponder.wsdl
+
+Para facilitar a leitura de soap: www.soapui.org
+
+REST: Representational State Transfer. É um estilo de arquitetura de software
+que define a implementação de um web service. Podem trabalhar com os formatos
+XML, JSON ou outros.
+
+Vantagens do REST:
+- Permite integrações entre aplicações e também entre cliente e servidor em pá-
+ginas web e aplicações;
+- Utiliza dos métodos HTTP para definir a operação que está sendo efetuada.
+
+OBS: Quando uma aplicação web disponibiliza um conjunto de rotinas e padrões
+através de serviços web podemos chamar esse conjunto de API.
+
+API: Application Programming Interface. São conjuntos de rotinas documentadas
+e disponibilizadas por uma aplicação para que outras aplicações possa consu-
+mir suas funcionalidades.
+
+Principais Métodos HTTP:
+- GET: Solicita a representação de um recurso;
+- POST: Solicita a criação de um recurso;
+- DELETE: Solicita a exclusão de um recurso;
+- PUT: Solicita a atualização de um recurso.
+
+JSON: JavaScript Object Notation. Usa-se de uma estrutura de chave e valor e
+também de listas ordenadas. Formatação leve utilizada para troca de mensagem
+entre sistemas.
+
+Status Code: usado pelo servidor para avisar o cliente sobre o estado da ope-
+ração solicitada.
+- 1xx: informatico;
+- 2xx: sucesso;
+- 3xx: redicerionamento;
+- 4xx: erro do cliente;
+- 5xx: erro do servidor.
+OBS: de 100 a 500, nao vai do 100 ao 199, cada range abrange uma categoria
+diferente.
